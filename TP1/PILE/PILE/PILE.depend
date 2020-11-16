@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605568093 source:c:\users\hamza\desktop\c++\pile\pile\main.cpp
+	<iostream>
+	"PILE.h"
+
+1605568474 c:\users\hamza\desktop\c++\pile\pile\pile.h
+
+1605568448 source:c:\users\hamza\desktop\c++\pile\pile\src\pile.cpp
+	"PILE.h"
+	<iostream>
+
