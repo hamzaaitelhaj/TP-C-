@@ -11,7 +11,7 @@ int main() {
 	char cas;
 
 		cout << "pour afficher l heure Anglaise  tapez 'A' ou l heure francaise tapez 'F' :"; cin >> cas;
-	switch (cas) {
+	switch (cas)
 	case 'A':
 		t.heureAnglaise();
 		break;
@@ -22,7 +22,7 @@ int main() {
 		cout << "choix invalide!" << endl;
 	}
 
-	t.compare(13, 25, 30);
+	t.compare(13, 25,30);
 
 	t.~Temps();
 	return 0;
